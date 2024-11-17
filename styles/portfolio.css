@@ -1,0 +1,12 @@
+body{
+    
+}
+
+
+nav {
+    display: flex;
+}
+
+nav a{
+    text-decoration: none;
+}
